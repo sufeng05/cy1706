@@ -8,6 +8,9 @@ int main()
 {
     int a = 2;
     int b = 3;
+
+    //这是调用add
+    int d = add(a,b);
     printf("hello\n");
 
     return 0;
